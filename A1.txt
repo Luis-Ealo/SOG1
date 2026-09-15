@@ -1,1 +1,2 @@
-ESTA ES LA 1 LINEA DEL ARCHIVO
+ESTA ES LA 1 LINEA DEL ARCHIVO 1
+esta es la linea 2 del archivo 1
